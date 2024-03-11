@@ -6,3 +6,5 @@ Included are the f3d, step and 3mf files for modifying and printing your own ver
 
 # TODO:
 Write rest of readme with build instructions.
+
+![lamp](lamp.jpg)
