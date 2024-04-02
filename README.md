@@ -52,3 +52,6 @@ The face should be able to press fit onto the base at this point.
 
 #### Step 7 - Power up and configure
 Plug in the USB cable and power up the D1 Mini, it should boot into WLED and you should be able to connect to it from your phone or computer and configure the lamp to your liking.
+
+#### Step 8 - Attach to wall    
+I used some [3M Command Strips](https://a.co/d/7VM9W2T) to attach the lamp to the wall, to avoid making holes in the wall and the lamp is light enough to not need screws.
